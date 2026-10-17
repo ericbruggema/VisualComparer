@@ -1,0 +1,74 @@
+VISUAL COMPARER - FREEWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Eric Bruggema. All rights reserved.
+
+Visual Comparer (for Windows) and Visual Comparer Mobile (for Android) are
+referred to below as "the Software". The source code of the Software is not
+published and remains the property of the copyright holder.
+
+By installing, copying or using the Software you accept this agreement. If you
+do not accept it, do not install or use the Software.
+
+1. LICENSE GRANT
+   You receive a free, non-exclusive, non-transferable, revocable licence to
+   install and use the Software, in the form in which it is published by the
+   copyright holder, on any number of devices that you own or control, for
+   personal and for business purposes.
+
+2. REDISTRIBUTION
+   You may pass on the unmodified official installer, portable archive or
+   APK free of charge, as long as the package is complete and unchanged
+   (including this agreement and the third-party notices) and you do not
+   charge for it or bundle it with other software that you charge for or that
+   shows advertising or installs additional software.
+
+3. RESTRICTIONS
+   You may not (a) modify, translate or create derivative works of the
+   Software, (b) decompile, disassemble or otherwise attempt to derive the
+   source code of the Software, except and only to the extent that applicable
+   law expressly permits this despite this restriction, (c) remove or change
+   copyright or licence notices, (d) sell, rent or lease the Software, or
+   (e) circumvent technical limitations of the Software, such as the limits of
+   the free edition.
+
+4. FREE EDITION
+   The free edition processes up to 500 videos and 2,500 photos per scan.
+   Later versions may add other editions, limits or ways to support the
+   development. The terms for such editions will be published with them.
+
+5. THIRD-PARTY COMPONENTS
+   The Software contains or uses components of third parties, for example
+   FFmpeg. These are licensed under their own terms, listed in
+   THIRD-PARTY-NOTICES.md. Nothing in this agreement restricts the rights
+   that those licences give you for those components.
+
+6. YOU DECIDE WHAT IS DELETED
+   The Software helps you to find files that look alike and can move files to
+   the recycle bin, to the trash or to a quarantine folder. It can make
+   mistakes: files may be grouped that are not the same, and copies may be
+   missed. You always decide which files are removed, and you are responsible
+   for that. Keep a backup of everything you cannot afford to lose.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE
+   FOR ANY DAMAGE, INCLUDING LOSS OF DATA, LOSS OF PROFIT OR ANY INDIRECT OR
+   CONSEQUENTIAL DAMAGE, ARISING FROM THE USE OF, OR THE INABILITY TO USE,
+   THE SOFTWARE, EVEN IF THE POSSIBILITY OF SUCH DAMAGE WAS KNOWN. NOTHING
+   IN THIS AGREEMENT EXCLUDES LIABILITY THAT CANNOT BE EXCLUDED BY LAW.
+
+9. PRIVACY
+   The Software works on your own device. It does not require an account and
+   does not collect or send usage data. Your photos and videos are never
+   uploaded.
+
+10. TERMINATION
+    This licence ends automatically if you break these terms. You then have to
+    stop using the Software and delete all copies.
+
+11. GOVERNING LAW
+    This agreement is governed by the laws of the Netherlands.
