@@ -122,6 +122,8 @@ You can change the list of extensions per scan in Settings, and exclude folders 
 
 This release is the **free edition**: a scan processes up to **500 videos** and **2,500 photos** (the first files in the order of your folders; photos and videos have their own limit). Everything else works without restrictions. If a scan is cut short, the program tells you how many files were skipped, and you can scan the remaining folders in another run. Later versions may be offered in other editions; the terms are published with each release.
 
+<p align="center"><img src="docs/images/windows-free-limit.png" alt="The notice when a scan reached the limit of the free edition" width="420"></p>
+
 ## Safety and disclaimer
 
 Visual Comparer helps you find files that look alike. It can make mistakes: files may be grouped that are not the same, and copies may be missed. **You decide what is removed, and you are responsible for it.** Look at a group before you delete, use quarantine first, and keep a backup of everything you cannot afford to lose. See [LICENSE.txt](LICENSE.txt) for the full terms; the same terms are shown in the program on first start.
